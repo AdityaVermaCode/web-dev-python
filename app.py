@@ -43,7 +43,7 @@ def home():
     </head>
     <body>
         <div class="container">
-            <h1>Welcome to Flask!</h1>
+            <h1>Welcome to Python!</h1>
             <p>Your Flask web application is running successfully.</p>
             <p>Start building your web app by editing <code>app.py</code></p>
         </div>
